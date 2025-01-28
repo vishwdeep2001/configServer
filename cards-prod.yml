@@ -1,0 +1,14 @@
+
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to the EazyBank Cards Default Application related to Prod"
+  contactDetails:
+    name: "EazyBank"
+    email: "EazyBank@gmail.com"
+  onCallSupport:
+      - "(555)555-1234"
+      - "(555)555-4567"
+

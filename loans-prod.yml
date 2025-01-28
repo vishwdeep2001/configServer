@@ -1,0 +1,16 @@
+
+
+
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to the EazyBank Loans Default Application related to PROD"
+  contactDetails:
+    name: "EazyBank"
+    email: "EazyBank@gmail.com"
+  onCallSupport:
+      - "(555)555-1234"
+      - "(555)555-4567"
+

@@ -1,0 +1,16 @@
+
+
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the EazyBank Accounts Default Application related to PRODUCTION"
+  contactDetails:
+    name: "EazyBank"
+    email: "EazyBank@gmail.com"
+  onCallSupport:
+      - "(555)555-1234"
+      - "(555)555-4567"
+
