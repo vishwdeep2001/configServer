@@ -6,7 +6,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the EazyBank Accounts Default Application related to Production Env"
+  message: "Welcome to the EazyBank Accounts Default Application related to Production Environment"
   contactDetails:
     name: "EazyBank"
     email: "{cipher}439c4b5958f8338535581a7ddc4be33eb083abc0cbe4991d50b415e47e23a90db5f7314ee3645dc936db107ab094bff5"
