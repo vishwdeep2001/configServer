@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the EazyBank Cards Default Application related to Prod"
+  message: "Welcome to the EazyBank Cards Default Application related to Production"
   contactDetails:
     name: "EazyBank"
     email: "EazyBank@gmail.com"
