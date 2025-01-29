@@ -6,7 +6,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to the EazyBank Loans Default Application related to PRODUCTION"
+  message: "Welcome to the EazyBank Loans Default Application related to PRODUCTION Environment"
   contactDetails:
     name: "EazyBank"
     email: "EazyBank@gmail.com"
