@@ -6,7 +6,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to the EazyBank Accounts docker Default Application"
+  message: "Welcome to the EazyBank Accounts  Default Application"
   contactDetails:
     name: "EazyBank"
     email: "EazyBank@gmail.com"
